@@ -303,6 +303,7 @@ footer .footer {
     margin: 0px auto;
     height: 150px;
     line-height: 150px;
+     min-width: 1000px;
 }
 
 .footer ul li {
