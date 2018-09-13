@@ -6,7 +6,7 @@
 
 body {
     min-width: 1000px;
-    background: url('../image/banner.jpg') no-repeat;
+    background: url('banner.jpg') no-repeat;
     background-position: center center;
     background-attachment: fixed;
     background-size: cover;
